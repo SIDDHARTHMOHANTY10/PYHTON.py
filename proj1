@@ -1,0 +1,8 @@
+# output:number even or odd
+
+z=int(input('YOUR NUMBER:'))
+
+if z%2==0:
+    print('YOUR NUMBER IS EVEN')
+else:
+    print('YOUR NUMBER IS ODD')
